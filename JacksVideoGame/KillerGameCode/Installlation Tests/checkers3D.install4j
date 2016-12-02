@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install4j version="2.0.7">
+  <directoryPresets config="C:/WINDOWS/Desktop/Installation Tests/Uninstall Code" />
+  <application name="Checkers3D" distributionSourceDir="" mediaDir="C:/WINDOWS/Desktop" mediaFilePattern="%SHORT_NAME%_%VERSION%" compression="6" shortName="C3D" publisher="Andrew Davison" publisherWeb="http://fivedots.coe.psu.ac.th/~ad/jg" version="1.0" allPathsRelative="false" backupOnSave="false" autoSave="false" javaMinVersion="1.4" javaMaxVersion="">
+    <searchSequence>
+      <registry />
+      <envVar name="JAVA_HOME" />
+      <envVar name="JDK_HOME" />
+    </searchSequence>
+  </application>
+  <files>
+    <mountPoints>
+      <mountPoint name="" id="8" location="Executables" />
+    </mountPoints>
+    <entries>
+      <fileEntry mountPoint="8" file="C:/WINDOWS/Desktop/Installation Tests/Checkers3D/j3dcore.jar" overwrite="4" shared="false" mode="644" dontUninstall="false" />
+      <fileEntry mountPoint="8" file="C:/WINDOWS/Desktop/Installation Tests/Checkers3D/vecmath.jar" overwrite="4" shared="false" mode="644" dontUninstall="false" />
+      <fileEntry mountPoint="8" file="C:/WINDOWS/Desktop/Installation Tests/Checkers3D/Checkers3D.jar" overwrite="4" shared="false" mode="644" dontUninstall="false" />
+      <fileEntry mountPoint="8" file="C:/WINDOWS/Desktop/Installation Tests/Checkers3D/j3daudio.jar" overwrite="4" shared="false" mode="644" dontUninstall="false" />
+      <fileEntry mountPoint="8" file="C:/WINDOWS/Desktop/Installation Tests/Uninstall Code/custom.jar" overwrite="4" shared="false" mode="644" dontUninstall="false" />
+      <fileEntry mountPoint="8" file="C:/WINDOWS/Desktop/Installation Tests/Checkers3D/j3dutils.jar" overwrite="4" shared="false" mode="644" dontUninstall="false" />
+    </entries>
+  </files>
+  <launchers>
+    <launcher name="c3d" id="5" external="false" excludeFromMenu="false" menuName="" icnsFile="" pngIcon16File="C:/WINDOWS/Desktop/Installation Tests/chess16.png" pngIcon32File="C:/WINDOWS/Desktop/Installation Tests/chess32.png" macServiceDependencies="" allowUserChangeServiceStartType="true">
+      <executable name="Checkers3D" type="1" iconSet="true" iconFile="" executableDir="Executables" redirectStderr="true" stderrFile="error.log" redirectStdout="true" stdoutFile="output.log" failOnStderrOutput="true" executableMode="1" changeWorkingDirectory="true" workingDirectory="." singleInstance="false" serviceStartType="2" serviceDependencies="" jreLocation="" jreUncompressedSize="0">
+        <versionInfo include="false" fileVersion="" companyName="" fileDescription="" legalCopyright="" productVersion="" internalName="" />
+      </executable>
+      <splashScreen show="true" autoOff="true" alwaysOnTop="true" width="417" height="336" bitmapFile="C:/WINDOWS/Desktop/Installation Tests/startBanner.GIF">
+        <text>
+          <statusLine x="20" y="20" text="Checkers3D by Andrew Davison (c) 2004" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+          <versionLine x="20" y="35" text="v. %VERSION%" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+        </text>
+      </splashScreen>
+      <java mainClass="Checkers3D" vmParameters="" arguments="" allowVMPassthroughParameters="true" minVersion="" maxVersion="" preferredVM="">
+        <searchSequence>
+          <registry />
+          <envVar name="JAVA_HOME" />
+          <envVar name="JDK_HOME" />
+        </searchSequence>
+        <classPath>
+          <archive location="Executables/j3dcore.jar" failOnError="false" />
+          <archive location="Executables/vecmath.jar" failOnError="false" />
+          <archive location="Executables/Checkers3D.jar" failOnError="false" />
+          <archive location="Executables/j3daudio.jar" failOnError="false" />
+          <archive location="Executables/j3dutils.jar" failOnError="false" />
+        </classPath>
+        <nativeLibraryDirectories>
+          <directory name="foo" />
+        </nativeLibraryDirectories>
+      </java>
+      <includedFiles />
+    </launcher>
+  </launchers>
+  <installerGui customJarFile="C:/WINDOWS/Desktop/Installation Tests/Uninstall Code/custom.jar" useCustomHeaderImage="false" customHeaderImage="" customSize="true" customWidth="700" customHeight="450">
+    <standardScreens>
+      <screen id="welcome" enabled="true" useCustomBanner="true" bannerImageFile="C:/WINDOWS/Desktop/Installation Tests/startBanner.GIF" background="51,51,51" />
+      <screen id="license" enabled="false" file="" />
+      <screen id="location" enabled="true" useValidator="false" validatorClass="" suggestAppDir="true" />
+      <screen id="programGroup" enabled="true" />
+      <screen id="services" enabled="true" />
+      <screen id="additionalTasks" enabled="true" />
+      <screen id="preInfo" enabled="false" file="" />
+      <screen id="install" enabled="true" preAction="false" preActionClass="" postAction="false" postActionClass="" preUninstallAction="true" preUninstallActionClass="DLLUninstallAction" postUninstallAction="false" postUninstallActionClass="" installationHandler="false" installationHandlerClass="" />
+      <screen id="postInfo" enabled="false" file="" />
+      <screen id="finished" enabled="true" useCustomBanner="false" bannerImageFile="" background="0,0,0" />
+    </standardScreens>
+    <customScreens />
+  </installerGui>
+  <mediaSets>
+    <win32 name="Windows" id="6" mediaFileName="" installDir="Checkers3D" allLaunchers="false" bundleType="1" includedJRE="" jreURL="" jreFtpURL="" languageID="en" customInstallBaseDir="" mainExecutableId="5" allowUserStartAfterFinish="true" launchExecutableId="5" createUninstallIcon="true" overrideLicenseFile="false" licenseFile="" overridePreInformationFile="false" preInformationFile="" overridePostInformationFile="false" postInformationFile="" jreShared="false" adminRequired="false" programGroup="Checkers3D" allowUserDisableStartMenuCreation="false" allowUserCreateDesktopIcon="true" allowUserCreateQuickLaunchIcon="false">
+      <selectedLaunchers>
+        <launcher id="5" />
+      </selectedLaunchers>
+      <messageSet language="English" />
+      <exclude />
+      <excludedScreenIds />
+      <additionalStartMenuEntries />
+    </win32>
+  </mediaSets>
+  <buildIds buildAll="true" />
+</install4j>
+

@@ -1,0 +1,1897 @@
+<?xml version='1.0'?>
+<kawaproject>
+<versioninfo>
+<documentversion>
+<major>"0"</major>
+<minor>"1"</minor>
+</documentversion>
+<productversion>
+<value>"121"</value>
+</productversion>
+</versioninfo>
+<path>"c:\dev\selman\"</path>
+<classpaths>
+</classpaths>
+<xbootclasspaths>
+</xbootclasspaths>
+<profile>
+<name>"Book"</name>
+</profile>
+<runfile>
+<relativepath>"src\org\selman\java3d\book\Launcher\Launcher.java"</relativepath>
+</runfile>
+<items>
+<folder>
+<name>"selman"</name>
+<relativepath>"..\dev\selman\selman.kpx"</relativepath>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+<virtualfolder>
+<name>"org"</name>
+<virtualfolder>
+<name>"selman"</name>
+<virtualfolder>
+<name>"java3d"</name>
+<virtualfolder>
+<name>"book"</name>
+<virtualfolder>
+<name>"AlphaTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AlphaTest\AlphaTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="537556083" y="538976288" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"AppearanceTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\AppearanceComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\AppearanceTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\ColoringComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="778135664" y="1148478823" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\LineComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\MaterialComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\PointComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\PolygonComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\RenderingComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\TexGenComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\TextureAttributesComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\TextureComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AppearanceTest\TransparencyComponent.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"AvatarTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\AvatarTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1935739145" y="1852270963" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\Building.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\Car.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\CarSteering.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\CollisionBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\Land.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\AvatarTest\Road.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"BehaviorTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BehaviorTest\BehaviorTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BehaviorTest\ExplodeBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BehaviorTest\ExplosionListener.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BehaviorTest\ObjectSizeBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BehaviorTest\StretchBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"BillboardTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BillboardTest\BillboardTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"BoundsTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\BoundsTest\BoundsTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"common"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\BoundsBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\CollisionBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\ComplexObject.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="151587338" y="1629499183" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\Cuboid.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\Euler.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1867740270" y="778333813" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\EulerAngles.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\EulGetOrdInfo.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\FpsBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\Java3dApplet.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\KeyBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\Land.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\Quat.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\RotationChangeListener.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1852138345" y="537552243" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\ScaleChangeListener.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1869182049" y="1981820014" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\ThreadLister.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\TornadoChangeListener.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\TornadoMouseBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\TornadoMouseRotate.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\TornadoMouseScale.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="707406378" y="707406378" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\TornadoMouseTranslate.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\TranslationChangeListener.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\UiAlpha.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="539520631" y="1025581097" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\common\Utils.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"CompileTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CompileTest\CompileTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"CuboidTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CuboidTest\Cuboid.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CuboidTest\CuboidTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CuboidTest\OldGeomBuffer.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1879640623" y="1768710773" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"CustomAlphaTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CustomAlphaTest\AlphaPair.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CustomAlphaTest\CustomAlphaTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CustomAlphaTest\FileAlpha.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\CustomAlphaTest\FileAlphaListener.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"HiResCoordTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\HiResCoordTest\HiResCoordTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1852138345" y="537552243" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"ImmediateTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\ImmediateTest\ImmediateCanvas3D.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\ImmediateTest\ImmediateTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1869182049" y="1981820014" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"InterpolatorTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\InterpolatorTest\InterpolatorTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1415869039" y="678720357" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\InterpolatorTest\RandomAlpha.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"KeyNavigateTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\CollisionChecker.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\CollisionDetector.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1701667186" y="1852383272" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\Guard.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1769365870" y="1769234791" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\KeyCollisionBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1769365870" y="1769234791" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\KeyNavigateTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="544370548" y="992550953" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\Light.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\RandomWalkBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1769365870" y="1769234791" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\KeyNavigateTest\TextureAnimationBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1702125911" y="1886404978" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"Launcher"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\Launcher\Application.java"</relativepath>
+<editor open="1">
+<selection start="2758" end="2758">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\Launcher\Launcher.java"</relativepath>
+<editor open="1">
+<selection start="1524" end="1524">
+</selection>
+<window x="29900272" y="29900416" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"LightTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LightTest\AmbientLightObject.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LightTest\DirectionalLightObject.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LightTest\LightObject.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LightTest\LightTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LightTest\PointLightObject.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LightTest\SpotLightObject.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"LoaderTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\LoaderTest\LoaderTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"MixedTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MixedTest\ImmediateCanvas3D.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MixedTest\MixedTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"MouseNavigateTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MouseNavigateTest\MouseNavigateTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="694447205" y="1879640330" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"MultiView"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MultiView\MultiView.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1752458345" y="1600987180" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"MyJava3D"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\AnimatingSurface.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\AwtRenderingEngine.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="543516788" y="1851880002" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\GeometryUpdater.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\MyJava3D.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\NoOpGeometryUpdater.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\RenderingEngine.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\RenderingSurface.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\RotatingGeometryUpdater.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="543385964" y="1651863396" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\MyJava3D\Surface.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"NodesTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\NodesTest\NodesTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"PickCollisionTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\PickCollisionTest\CollisionBehavior.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\PickCollisionTest\PickCollisionTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"PlatformTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\PlatformTest\PlatformTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"PointTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\PointTest\PointTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"RasterTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\RasterTest\RasterTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="723526176" y="1702257952" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"ScenegraphTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\ScenegraphTest\ScenegraphTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"SimpleTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\SimpleTest\SimpleTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"SplineInterpolatorTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\SplineInterpolatorTest\Helicopter.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="543519841" y="1684631414" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\SplineInterpolatorTest\SplineInterpolatorTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1869182049" y="1981820014" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"SwingTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\SwingTest\SwingTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1847600678" y="1702390096" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\SwingTest\SwingTestApplet.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"SwitchTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\SwitchTest\SwitchTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"TexCoordTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\TexCoordTest\TexCoordTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"Text2DTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\Text2DTest\Text2DTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1668483337" y="1113943653" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"Text3DTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\Text3DTest\Text3DTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\Text3DTest\TornadoRotation.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\Text3DTest\TornadoText3D.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"TextureTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\TextureTest\TextureGeometryInfo.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1631848736" y="1818585454" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\TextureTest\TextureTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1869182049" y="1981820014" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"TextureTransformTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\TextureTransformTest\TextureTransformTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"TriangulatorTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\TriangulatorTest\TriangulatorTest.java"</relativepath>
+<editor open="0">
+<selection start="0" end="0">
+</selection>
+<window x="1847606560" y="1361082213" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+<virtualfolder>
+<name>"VrmlPickingTest"</name>
+<file>
+<dirty>"0"</dirty>
+<relativepath>"src\org\selman\java3d\book\VrmlPickingTest\VrmlPickingTest.java"</relativepath>
+<editor open="1">
+<selection start="9400" end="9400">
+</selection>
+<window x="0" y="0" width="0" height="0">
+</window>
+</editor>
+<scmstatus id="0">
+<userstring>""</userstring>
+<userinteger>"0"</userinteger>
+</scmstatus>
+</file>
+</virtualfolder>
+</virtualfolder>
+</virtualfolder>
+</virtualfolder>
+</virtualfolder>
+</folder>
+</items>
+<compileroptions debug="0" nowarning="0" optimize="0" verbose="0" deprecated="0" usefilelist="0">
+<outputdirvalues checked="1">
+<outputdirvalue selected="1">
+<value>"C:\DEV\SELMAN\classes"</value>
+</outputdirvalue>
+</outputdirvalues>
+<customoptions checked="0">
+</customoptions>
+</compileroptions>
+<interpreteroptions debug="0" nogc="0" verbosegc="0" verbose="0" checksrc="0" verifieroff="0" verifieron="0" verifierremote="0" classic="0">
+<commandlineargs checked="0">
+</commandlineargs>
+<runclassnames checked="0">
+<runclassname selected="0">
+<value>""</value>
+</runclassname>
+</runclassnames>
+<executedirs checked="1">
+<executedir selected="22">
+<value>"C:\DEV\SELMAN\classes\"</value>
+</executedir>
+</executedirs>
+<customoptions checked="0">
+<customoption selected="0">
+<value>""</value>
+</customoption>
+</customoptions>
+<maxmemory checked="0">
+<value>""</value>
+</maxmemory>
+<startmemory checked="0">
+<value>""</value>
+</startmemory>
+<javacodestack checked="0">
+<value>""</value>
+</javacodestack>
+<ccodestack checked="0">
+<value>""</value>
+</ccodestack>
+<propertyvalues checked="0">
+<propertyvalue selected="0">
+<value>""</value>
+</propertyvalue>
+</propertyvalues>
+<debugger>
+<remote checked="0">
+<host checked="0">
+<value>""</value>
+</host>
+<password checked="0">
+<value>""</value>
+</password>
+<port checked="0">
+<value>""</value>
+</port>
+<connector checked="0">
+<value>""</value>
+</connector>
+</remote>
+<jvmdidebug checked="0">
+</jvmdidebug>
+<multithreading checked="0">
+</multithreading>
+<excludejdkclasses checked="0">
+</excludejdkclasses>
+<breakonuncaughtexceptions checked="0">
+</breakonuncaughtexceptions>
+</debugger>
+</interpreteroptions>
+<javadocoptions version="1" type="1" author="1" noindex="0" notree="0" nodeprecated="0">
+<outputdirvalues checked="1">
+<outputdirvalue selected="1">
+<value>"C:\dev\selman\javadoc"</value>
+</outputdirvalue>
+</outputdirvalues>
+<customoptions checked="0">
+<customoption selected="0">
+<value>""</value>
+</customoption>
+</customoptions>
+</javadocoptions>
+<rmioptions useprojectclasspath="0" debugtables="0" depend="0" debug="0" optimize="0" nowarn="0" verbose="0" nowrite="0" keepgenerated="0" show="0">
+<outputdirs checked="0">
+<outputdir selected="0">
+<value>""</value>
+</outputdir>
+</outputdirs>
+<stubdirs checked="0">
+<stubdir selected="0">
+<value>""</value>
+</stubdir>
+</stubdirs>
+<skeldirs checked="0">
+<skeldir selected="0">
+<value>""</value>
+</skeldir>
+</skeldirs>
+<customoptions checked="0">
+<customoption selected="0">
+<value>""</value>
+</customoption>
+</customoptions>
+<files>
+</files>
+</rmioptions>
+<kawajar>
+<value>""</value>
+</kawajar>
+<breakpoints>
+</breakpoints>
+<exceptions>
+</exceptions>
+<debuggersourcedirs checked="0">
+</debuggersourcedirs>
+</kawaproject>

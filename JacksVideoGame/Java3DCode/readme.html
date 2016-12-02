@@ -1,0 +1,142 @@
+<html>
+<h1>Java 3D Programming, Daniel Selman </h1><br>
+Example applications and source code accompanying "Java 3D Programming"
+by Daniel Selman, published by <a href="http://www.manning.com/selman">Manning publications</a>.
+<p>
+<h2>Running Examples</h2><br>
+If you installed the examples to the <code>c:\dev\selman</code> directory
+go to <code>c:\dev\selman\classes</code> and type:
+<pre>
+java org.selman.java3d.book.launcher.Launcher
+</pre>
+<p>
+<b>
+You need to have "java" in your path (the correct one for Java 3D!) 
+and copy the files j3dtree.jar and vrml97.jar into your jre/lib/ext directory.
+</b>
+<p>
+Please refer to the JavaDoc folder for information about each example.
+<p>
+
+<p>
+<h2>Known Issues: 05/04/2002</h3>
+<pre>
+java version "1.4.0"
+Java(TM) 2 Runtime Environment, Standard Edition (build 1.4.0-b92)
+Java HotSpot(TM) Client VM (build 1.4.0-b92, mixed mode)
+
+AMD Athalon 850, 512 MB RAM
+Windows 2000, SP2
+nVidia GeForce II Ultra. Drivers: 6.13.10.2832
+
+Java 3D 1.3B2 OpenGL.
+
+<b>Install</b><br>
+Make sure you also copy j3dtree.jar, vrml97.jar into your "C:\Program Files\Java\j2re1.4.0\lib\ext"
+directory or you will get ClassNotFoundExceptions for the com.tornadolabs.j3dtree classes.
+
+<b>AppearanceTest</b><br>
+When rendering with lines, line widths don't seem to always get applied.
+Inconsistent results.
+
+<b>AppearanceTest</b><br>
+Only see transparency applied to lines when running with line anti-aliasing
+set to true. This appears to change the rendering order of some lines
+however. I don't remember if this was always the case...
+
+<b>AppearanceTest</b><br>
+Point sizes not being applied.
+
+[Note - a solid coloured background is being used.]
+
+<b>AppearanceTest</b><br>
+Rendering AlphaTest doesn't appear to be applied to Shape3D vertices
+with per-vertex transparency, only to those using TransparencyAttributes.
+
+<b>AppearanceTest</b><br>
+Not seeing texture boundary colors being applied.
+
+<b>AvatarTest</b><br>
+Sounds are only being played once?
+
+<b>MyJava3D</b><br>
+ObjectFile loader now creates geometry with the BY_REFERENCE flag set and
+INTERLEAVED. Breaks one example, as it tries to read geometry  using
+getCoordinate( ... ). It would be nice if this was passed into the loader
+through the flags.
+
+<b>SplineInterpolatorTest</b><br>
+Helicopter sound only plays once. The rotors on the helicopters are rendered in white.
+
+<b>Text3DTest</b><br>
+Text3D rendering problems. Text "setString" is created (with custom depth),
+the corners of the 'n' are drawn from far lower-left corner.
+
+</pre>
+
+<h2>Known Issues: 02/18/2002</h3>
+<pre>
+java version "1.4.0"
+Java(TM) 2 Runtime Environment, Standard Edition (build 1.4.0-b92)
+Java HotSpot(TM) Client VM (build 1.4.0-b92, mixed mode)
+
+AMD Athalon 850, 512 MB RAM
+Windows 2000, SP2
+nVidia GeForce II Ultra. Drivers: 6.13.10.2312
+
+Java 3D 1.3B1 OpenGL.
+
+<b>AppearanceTest</b><br>
+When rendering with lines, line widths don't seem to always get applied.
+Inconsistent results.
+
+<b>AppearanceTest</b><br>
+Only see transparency applied to lines when running with line anti-aliasing
+set to true. This appears to change the rendering order of some lines
+however. I don't remember if this was always the case...
+
+<b>AppearanceTest</b><br>
+Point sizes not being applied.
+
+[Note - a solid coloured background is being used.]
+
+<b>AppearanceTest</b><br>
+Rendering AlphaTest doesn't appear to be applied to Shape3D's with
+Transparency applied - only to vertices with per-vertex transparency.
+
+<b>BehaviorTest</b><br>
+Running example testing some custom behaviors. See this on the console:
+"==> DEBUG1: Should never come here!"
+
+<b>MyJava3D</b><br>
+ObjectFile loader now creates geometry with the BY_REFERENCE flag set and
+INTERLEAVED. Breaks one example, as it tries to read geometry  using
+getCoordinate( ... ). It would be nice if this was passed into the loader
+through the flags.
+
+<b>RasterTest</b><br>
+Reading rasters is broken:
+java.lang.NullPointerException
+        at
+javax.media.j3d.GraphicsContext3D.doReadRaster(GraphicsContext3D.java:2238)
+        at
+javax.media.j3d.GraphicsContext3D.readRaster(GraphicsContext3D.java:2205)
+        at
+org.selman.java3d.book.rastertest.RasterTest$RasterCanvas3D.postSwap(RasterT
+est.java:235)
+        at javax.media.j3d.Renderer.doWork(Renderer.java:248)
+        at javax.media.j3d.J3dThread.run(J3dThread.java:256)
+
+<b>AvatarTest, SplineInterpolatorTest</b><br>
+Running example with Sound:
+See "null: Sound source data could not be loaded" printed to console, but
+sounds seem to work.
+Clipping seems to have changed, either get far more sounds or very short
+clipped sounds.
+
+<b>Text3DTest</b><br>
+Text3D rendering problems. Text "setString" is created (with custom depth),
+the corners of the 'n' are drawn from far lower-left corner.
+
+</pre>
+</html>

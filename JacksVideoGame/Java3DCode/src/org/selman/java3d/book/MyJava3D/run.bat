@@ -1,0 +1,1 @@
+%JAVA_HOME%\bin\java.exe  -cp %SELMAN_CLASSPATH% org.selman.java3d.book.myjava3d.MyJava3D
